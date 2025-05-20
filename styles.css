@@ -162,7 +162,7 @@ h2 {
 }
 
 .subtitle {
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin-bottom: 2rem;
     color: var(--secondary-color);
 }
@@ -314,8 +314,8 @@ textarea {
 }
 
 .about-image img {
-    width: 500px;
-    height: 600px;
+    width: 450px;
+    height: 500px;
     border-radius: 50px; /* Makes the image circular */
     object-fit: cover;
     border: 3px solid #333; /* Optional border */
